@@ -1,0 +1,2 @@
+# Sentiment-Analysis-on-Instagram-Using-BiLSTM-for-Enhanced-Social-Media-Opinion-Mining
+This study analyzes Instagram comments using a Bi-LSTM model, which preprocesses text and classifies sentiments as positive, negative, or neutral. A pie chart visualization helps marketers, influencers, and researchers interpret audience sentiment. Bi-LSTM improves classification by capturing past and future context better than traditional models.
